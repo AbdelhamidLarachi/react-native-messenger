@@ -33,4 +33,4 @@ npx react-native run-android
 
 ```
 
-[![Framework](https://img.shields.io/badge/Made%20with-React_native-blue?style=flat&logo=react)](https://reactnative.dev/) [![libraries](https://img.shields.io/badge/%20-no%20third%20party%20libraries-lightgrey)]()
+[![Donate](https://img.shields.io/badge/Buy%20me%20a%20cofee-Donate-lightgreen?style=flat&logo=BUY%20ME%20A%20coffee)](https://www.buymeacoffee.com/abdelhamid)

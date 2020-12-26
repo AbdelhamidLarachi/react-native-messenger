@@ -11,9 +11,9 @@
 
 ## Screenshots
 
-<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-messenger/master/img/chat.png?token=AH6YGRZZV2QPQTWB4AVBBWK746FHW"> <img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-messenger/master/img/reaction.png?token=AH6YGRZW7AXJEH6YNVWYNPC746FNG">
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-messenger/master/img/chat.png?token=AH6YGR35GBTS2N3NJGCSOEC746GP6"> <img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-messenger/master/img/reaction.png?token=AH6YGR6TLBLZV3QXGAJXT4S746GHE">
 
-<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-messenger/master/img/timestamp.png?token=AH6YGR7TQYQRWI4QOA4SS7S746FOW"> <img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-messenger/master/img/typing.png?token=AH6YGR5DI5YT2SAQ3VFXV6C746FRS">
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-messenger/master/img/timestamp.png?token=AH6YGR5YBZWVSJZSYH6F3F2746GRA"> <img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-messenger/master/img/typing.png?token=AH6YGR3EGZLGCHXF5RZDEGK746GR6">
 
 
 ## Development
